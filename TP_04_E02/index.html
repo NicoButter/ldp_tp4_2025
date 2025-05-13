@@ -4,39 +4,48 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Currículum Vitae</title>
+
     <link rel="stylesheet" href="static/css/index_styles.css">
+
+    <script src="https://kit.fontawesome.com/16c678032e.js" crossorigin="anonymous"></script>
+    
 </head>
 <body>
+    <div class="video-background">
+    <video autoplay loop muted playsinline>
+      <source src="static/video/wallpaper.mp4" type="video/mp4">
+      Tu navegador no soporta la Matrix.
+    </video>
+  </div>
+
     <div class="container">
         <header>
             <img src="static/img/banner_header.png" alt="Currículum Vitae Header">
         </header>
-        <nav>
-            <h2>Índice</h2>
-            <ul>
-                <li><a href="#personal">Datos Personales</a></li>
-                <li><a href="#education">Formación Académica</a></li>
-                <li><a href="#experience">Experiencia Laboral</a></li>
-                <li><a href="#other">Otros Datos de Interés</a></li>
-            </ul>
-        </nav>
+    <nav>
+    <h2><i class="fas fa-list-ul"></i> Índice</h2>
+    <ul>
+        <li><a href="#personal"><i class="fas fa-id-card"></i> Datos Personales</a></li>
+        <li><a href="#education"><i class="fas fa-graduation-cap"></i> Formación Académica</a></li>
+        <li><a href="#experience"><i class="fas fa-briefcase"></i> Experiencia Laboral</a></li>
+        <li><a href="#other"><i class="fas fa-info-circle"></i> Otros Datos de Interés</a></li>
+    </ul>
+</nav>
         <section id="personal">
-            <h2>Datos Personales</h2>
-            <img src="static/img/imagen_personla.png" alt="Foto Personal" class="profile">
-            <dl>
-                <dt>Nombre:</dt>
-                <dd>Nicolás</dd>
-                <dt>Apellidos:</dt>
-                <dd>Butterfield</dd>
-                <dt>Dirección:</dt>
-                <dd>Calle 10 Las Garcitas, Río Gallegos</dd>
-                <dt>Teléfono:</dt>
-                <dd>+54 9 2966 691444</dd>
-                <dt>Correo Electrónico:</dt>
-                <dd>nicobutter@gmail.com</dd>
-            </dl>
-            <a href="#" class="back-to-top">Ir a inicio</a>
-        </section>
+    <h2><i class="fas fa-user"></i> Datos Personales</h2>
+    <img src="static/img/imagen_personla.png" alt="Foto Personal" class="profile">
+    <dl>
+        <dt><i class="fas fa-signature"></i> Nombre:</dt>
+        <dd>Nicolás</dd>
+        <dt><i class="fas fa-map-marker-alt"></i> Dirección:</dt>
+        <dd>Calle 10 Las Garcitas, Río Gallegos</dd>
+        <dt><i class="fas fa-phone"></i> Teléfono:</dt>
+        <dd>+54 9 2966 691444</dd>
+        <dt><i class="fas fa-envelope"></i> Correo Electrónico:</dt>
+        <dd>nicobutter@gmail.com</dd>
+    </dl>
+    <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i> Ir a inicio</a>
+</section>
         <section id="education">
             <h2>Formación Académica</h2>
             <ul>
@@ -44,7 +53,7 @@
                 <li>Curso de Programación Web, Instituto Técnico, 2021</li>
                 <li>Certificación en Bases de Datos, Plataforma Online, 2020</li>
             </ul>
-            <a href="#" class="back-to-top">Ir a inicio</a>
+            <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i> Ir a inicio</a>
         </section>
         <section id="experience">
             <h2>Experiencia Laboral</h2>
@@ -57,15 +66,25 @@
                    <strong>2005-2020: Jéfe Técnico - Casino Club S.A.
                 </li>
             </ol>
-            <a href="#" class="back-to-top">Ir a inicio</a>
+            <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i> Ir a inicio</a>
         </section>
         <section id="other">
             <h2>Otros Datos de Interés</h2>
             <p>Disponibilidad de incorporación inmediata.</p>
             <p>Vehículo propio.</p>
             <p>Portfolio personal: <a href="https://butterfieldportfolio2025.netlify.app/">butterfieldportfolio2025.netlify.app/</a></p>
-            <a href="#" class="back-to-top">Ir a inicio</a>
+            <a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i> Ir a inicio</a>
         </section>
+
+          <footer>
+        <div class="footer-content">
+            <p>© 2025 Nicolás Butterfield. Todos los derechos reservados.</p>
+            <a href="static/files/Nicolás_Butterfield_CV.pdf" download="Nicolás_Butterfield_CV.pdf" class="download-cv">
+                <i class="fas fa-download"></i> Descargar CV (PDF)
+            </a>
+        </div>
+    </footer>
+
     </div>
 </body>
 </html>
