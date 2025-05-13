@@ -1,6 +1,6 @@
 # 📖 Trabajo Práctico Nº 3: HTML5 & JavaScript
 
-![Banner UNPA](img/unpa-logo.png) <!-- Opcional: Logo de la universidad o proyecto -->
+![Banner UNPA](img/unpa_logo.png) <!-- Opcional: Logo de la universidad o proyecto -->
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -79,3 +79,5 @@ Este proyecto está bajo la **Licencia MIT**, lo que permite su uso, copia y mod
 
 - Consigna del Trabajo Práctico Nº 3, Laboratorio de Programación, UNPA.
 - Documentación oficial de HTML5 y JavaScript (MDN Web Docs).
+
+## "We'll make it through this. We always do." - John-117 / Master Chief ![Master Chief](img/master_chief.png)
