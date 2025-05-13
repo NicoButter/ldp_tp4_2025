@@ -67,7 +67,7 @@ Este proyecto es el **Trabajo Práctico Nº 3** de la asignatura **Laboratorio d
 ## 👤 Autor
 
 - **Nombre**: Nicolás Butterfield
-- **Contacto**: nicobutter@gmail.com(mailto:tu.email@ejemplo.com) | [GitHub](#)
+- **Contacto**: [nicobutter@gmail.com](mailto:nicobutter@gmail.com) | [GitHub](#)
 
 ## 📜 Licencia
 
