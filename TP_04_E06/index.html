@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calcular Peso de Referencia - Ejercicio 6</title>
+ 
+    <link rel="stylesheet" href="static/css/index_styles.css">
+
+</head>
+<body>
+    <header>
+        <h1>Trabajo Práctico 3 HTML5-JavaScript</h1>
+        <p>Ejercicio 6 - Materia: Laboratorio de Programación</p>
+    </header>
+
+    <main>
+        <div class="form-container">
+            <h2>Calcular Peso de Referencia</h2>
+            <form>
+                <label for="altura">Altura (cm, 30-300):</label>
+                <input type="number" id="altura" placeholder="e.g., 176 (30-300 cm)" required>
+                <label for="edad">Edad (años, 1-110):</label>
+                <input type="number" id="edad" placeholder="e.g., 22 (1-110)" required>
+                <label for="sexo">Sexo (M o F):</label>
+                <input type="text" id="sexo" placeholder="e.g., F" required>
+                <label for="peso">Peso actual (kg, 0.5-350):</label>
+                <input type="number" id="peso" step="0.1" placeholder="e.g., 79 (0.5-350 kg)" required>
+                <input type="button" value="Calcular peso de referencia" onclick="calcularPeso()">
+                <label for="resultado">Peso de referencia (kg):</label>
+                <input type="text" id="resultado" readonly placeholder="Resultado">
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>Estudiante: [Tu Nombre] | Año: 2025</p>
+        <p>Licenciatura en Sistemas - Universidad Nacional de la Patagonia Austral (UNPA)</p>
+    </footer>
+
+    <script src="static/js/calcularPeso.js"></script>
+</body>
+</html>
