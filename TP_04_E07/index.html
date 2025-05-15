@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Calcular Total - Ejercicio 7</title>
+    
+    <link rel="stylesheet" href="static/css/index_styles.css">
+
+</head>
+<body>
+    <header>
+        <h1>Trabajo Práctico 3 HTML5-JavaScript</h1>
+        <p>Ejercicio 7 - Materia: Laboratorio de Programación</p>
+    </header>
+
+    <main>
+        <div class="form-container">
+            <h2>Calcular Total</h2>
+            <form>
+                <label for="precio">Precio ($):</label>
+                <input id="precio" type="number" step="0.01" placeholder="e.g., 19.99" required>
+                <label for="cantidad">Cantidad:</label>
+                <input id="cantidad" type="number" placeholder="e.g., 5" required>
+                <input type="button" id="enviar" value="Calcular">
+                <label for="total">Total ($):</label>
+                <div class="result-container">
+                    <label for="total">Total Calculado ($):</label>
+                    <input id="total" readonly placeholder="Resultado">
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>Nicolás Butterfield | 2025</p>
+        <p>Licenciatura en Sistemas - Universidad Nacional de la Patagonia Austral.</p>
+    </footer>
+
+    <script src="static/js/calcularTotal.js"></script>
+</body>
+</html>
