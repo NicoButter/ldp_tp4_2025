@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda de Tareas - Ejercicio 8</title>
+    
+    <link rel="stylesheet" href="static/css/index_styles.css">
+
+</head>
+<body>
+    <header>
+        <h1>Trabajo Práctico 3 HTML5-JavaScript</h1>
+        <p>Ejercicio 8 - Materia: Laboratorio de Programación</p>
+    </header>
+
+    <main>
+        <div class="form-container">
+            <h2>Agenda de Tareas</h2>
+            <form>
+                <input type="text" id="tarea" placeholder="Ingrese una tarea (máx. 100 caracteres)" maxlength="100" required>
+                <input type="button" id="agregar" value="Agregar tarea">
+            </form>
+            <div class="task-list" id="lista-tareas"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Nicolás Butterfield | 2025</p>
+        <p>Licenciatura en Sistemas - Universidad Nacional de la Patagonia Austral.</p>
+    </footer>
+
+    <script src="static/js/agendaTareas.js"></script>
+</body>
+</html>
