@@ -8,7 +8,7 @@
 
 ---
 
-# 📖 Trabajo Práctico Nº 3: HTML5 & JavaScript
+# 📖 Trabajo Práctico Nº 4: HTML5 & JavaScript
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Este proyecto es el **Trabajo Práctico Nº 4** de la asignatura **Laboratorio d
 
 ## 💻 Entorno de Desarrollo
 
-- 🖌️ **Editor de Código**: Visual Studio Code (v1.XX.X).
+- 🖌️ **Editor de Código**: Visual Studio Code.
 - 🐧 **Sistema Operativo**: openSUSE.
 - 💻 **Hardware**: HP Victus D16 Laptop.
 
