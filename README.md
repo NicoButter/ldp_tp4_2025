@@ -88,8 +88,6 @@ Este proyecto está bajo la **Licencia MIT**, lo que permite su uso, copia y mod
 - Consigna del Trabajo Práctico Nº 3, Laboratorio de Programación, UNPA.
 - Documentación oficial de HTML5 y JavaScript (MDN Web Docs).
 
-## "We'll make it through this. We always do." - John-117 / Master Chief ![Master Chief](img/master_chief.png)
-
 ---
 
 ## 🕹️ Bonus Track
