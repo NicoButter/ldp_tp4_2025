@@ -1,4 +1,12 @@
-![Banner UNPA](img/unpa_logo.png) <!-- Opcional: Logo de la universidad o proyecto -->
+
+<p align="center">
+  <img src="img/logo_UNPA.png" alt="Logo UNPA" height="120">
+</p>
+
+<h1 align="center">Trabajo Práctico N°6 - Laboratorio de Programación</h1>
+<h3 align="center">Licenciatura en Sistemas - Universidad Nacional de la Patagonia Austral</h3>
+
+---
 
 # 📖 Trabajo Práctico Nº 3: HTML5 & JavaScript
 
@@ -81,3 +89,13 @@ Este proyecto está bajo la **Licencia MIT**, lo que permite su uso, copia y mod
 - Documentación oficial de HTML5 y JavaScript (MDN Web Docs).
 
 ## "We'll make it through this. We always do." - John-117 / Master Chief ![Master Chief](img/master_chief.png)
+
+---
+
+## 🕹️ Bonus Track
+
+<p align="center">
+  <img src="img/master_chief.png" alt="Epic Gamer Quote" width="500"><br>
+  <strong>"We'll make it through this. We always do."</strong><br>
+  <em>– John-117. Master Chief</em>
+</p>
