@@ -16,7 +16,7 @@
 
 ## 📝 Descripción
 
-Este proyecto es el **Trabajo Práctico Nº 3** de la asignatura **Laboratorio de Programación** de las carreras **Licenciatura en Sistemas** y **Analista de Sistemas** de la **Universidad Nacional de la Patagonia Austral**, correspondiente al primer cuatrimestre de 2025. El objetivo es demostrar habilidades en el uso de **HTML5** y **JavaScript** mediante la creación de una página institucional, un currículum vitae digital, un formulario con validaciones y ejercicios de manipulación del DOM y eventos.
+Este proyecto es el **Trabajo Práctico Nº 4** de la asignatura **Laboratorio de Programación** de las carreras **Licenciatura en Sistemas** y **Analista de Sistemas** de la **Universidad Nacional de la Patagonia Austral**, correspondiente al primer cuatrimestre de 2025. El objetivo es demostrar habilidades en el uso de **HTML5** y **JavaScript** mediante la creación de una página institucional, un currículum vitae digital, un formulario con validaciones y ejercicios de manipulación del DOM y eventos.
 
 ## 📂 Estructura del Proyecto
 
